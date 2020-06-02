@@ -1,3 +1,1 @@
-export function name() {
-  return "Amy Jake Paralta Santiago";
-}
+export const name = () => "Amy Jake Paralta Santiago";
